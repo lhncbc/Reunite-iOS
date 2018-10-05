@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "+[PeopleDatabase personObjectWithPersonArray:]:PeopleDatabase.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "(__NSCFString *)((__NSCFString *)0x00007fd878436e30)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[FaceMatchHandlerObject photoEditDonePickingWithImageObject:]:FaceMatchHandlerObject.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "(UIImage *)imageObject-&gt;_image">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

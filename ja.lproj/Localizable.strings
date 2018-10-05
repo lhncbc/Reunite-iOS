@@ -1,0 +1,360 @@
+/*
+ Localizable.strings
+ Reunite
+
+ */
+
+" Login"=" ログイン";
+"...For Family Reunification"="...家族を結びつける為に";
+" Change Event "=" イベントを変更 ";
+"Selected Event"="選択されたイベント";
+" Began On"=" 開始";
+" Location"=" 位置";
+" Server Address"=" サーバアドレス";
+" Status"=" 状態";
+" Latency"=" ずれ";
+" Find"=" 発見";
+" Report"=" 報告";
+"Not Available"="利用できません";
+"Updated at %@ (%@)"="%@ (%@) に更新";
+"Just Now"="ちょうど今";
+"About"="概要";
+
+"%@ is an R&D project of the Lister Hill National Center for Biomedical Communications, a division of the National Library of Medicine, part of the National Institutes of Health."="%@® は、the Lister Hill National Center for Biomedical Communications(LHNCBC)のR&Dプロジェクトで、LHNCBCは、the National Institutes of Health(NIH)に属しているthe National Library of Medicine(NLM)の１部門です。";
+"%@, %@, and the LOST PERSON FINDER Design are trademarks of the U.S. Department of Health & Human Services (HHS)."="%@, %@®, and the LOST PERSON FINDER®のデザインは米国保健福祉省(HHS)の登録商標です。";
+"Privacy"="プライバシー";
+"Burden"="負荷";
+"Burden Statement: %@"="負荷について%@";
+"Updating Event List..."="イベントリストを更新...";
+"Enter your %@ credentials and tap on the Log In button. To register, tap on the Register button"="あなたの資格を入力して、ログインボタンをタップしてください。登録する為には, 登録ボタンをタップしてください";
+"Log In"="ログイン";
+"Register"="登録";
+
+"Cancel"="キャンセル";
+
+
+"STRING_BURDEN_STATEMENT"="この報告の作業にかかる時間は、一件につき約３分程度です。これには、説明を読み、情報収集し、入力する時間を含んでいます。現時点で有効なOMB制御番号が表示されていない限り、この情報収集に関し、当局は、実行することも支援することもなく、各個人は応答を要求されません。この情報提供に関し予想される負荷について、或いは、報告負荷を減らすための助言を含め、他の観点からのコメントも、ここへお送り下さい: ,NIH, Project Clearance Branch, 6705 Rockledge Drive, MSC 7974, Bethesda, MD 20892-7974, ATTN: PRA (0925-0612).この住所へは記入用紙は送らないで下さい。";
+"Burden & Privacy"="負荷とプライバシー";
+"Burden Statement"="負荷の宣言";
+
+
+"STRING_PRIVACY_STATEMENT"="米国国立医学図書館 (NLM: the National Library of Medicine)は、米国保健福祉省(HHS:U.S. Department of Health and Human Services)の一部で、健康情報の配信を改善する為のコミュニケーションシステム技術開発の使命を担っています。The Reunite appは、行方不明或いは発見された人の個人情報を素早く米国医学図書館（NLM）のPeople Locator (PL) サービス( https://pl.nlm.nih.gov )にアップロードします。このサービスには、災害後の家族を結びつけるのを援助するのみならず、災害時に使われるツールの有効性も研究するという明確な目的があります。PL service とLost Person Finder Projectについてのさらなる情報はここで見つかります。 http://lpf.nlm.nih.gov\n\n注: \n   1. このアプリケーションを使った情報提供は、自由意志によるものです。\n   2.  提供された全ての情報は公開されます。\n   3. このツールを使って蓄えられたデータは監査されずNLMのPLウェブサイトにて全ての訪問者が検索可能になります。\n   4.  このアプリに蓄えられたデータはこの時点では暗号化されていません。\n   5. このアプリのユーザは、行方不明・発見情報をアップロードするにはPLサービスのアカウントを持っている必要があります。\n   6.  PL へのログインはこのサイトを検索するには不要です。\n   7. 個人について報告された情報と提供された報告者のコンタクト情報は、米国政府が救助活動を提供している場合は、災害後の捜索に協力する他の政府や機関に配布されることがあります。\n   8. 災害後に提供されるデータについて: もしあなたが心配している人について何か聞いたら、PLウェブサイトの指示に従って、彼らの情報を更新して下さい。\n  9. このアプリケーションは使用者の位置情報を追跡しません。\n  10. 住所を知るのを助けるために使用者の位置を検出する場合は、使用者に明示されます";
+
+"Review This App"="このアプリをレビューしてください";
+
+
+"GLOBAL_KEY_SETTINGS_FACE_DETECTION" ="顔で検出";
+"GLOBAL_KEY_SETTINGS_AUTO_UPLOAD" ="自動アップロード";
+"GLOBAL_KEY_SETTINGS_FAMILY_NAME" = "姓（家族名）";
+"GLOBAL_KEY_SETTINGS_STATUS" ="状況";
+"GLOBAL_KEY_SETTINGS_LOCATION" ="位置";
+"GLOBAL_KEY_SETTINGS_FACE_NOT_FOUND" ="顔は見つかりません";
+"GLOBAL_KEY_SETTINGS_GPS_INACCURATE" ="GPSは不正確です";
+
+
+
+
+"Allow app to highlight faces on photos"="写真の顔にハイライトする許可を与えてください";
+"Allow app to automatically upload reports from its outbox"="送信ボックスから報告が自動的にアップロードできるように許可を与えて下さい";
+"SAVE ON DEVICE"="デバイスに保存";
+"Allow app to save and reuse selected fields"="選んだフィールドを再利用できるように許可を与えて下さい";
+"ALERTS"="警告";
+
+"Alerts for special situation"="特殊な状況についての警告";
+"Social Hub"="ソーシャルハブ";
+"Settings"="設定";
+"My Reports"="私の報告";
+"Pull To Search"="ドラッグして検索";
+"Adjust Filters"="フィルターを調整";
+"New Report"="新しい報告";
+"Saved"="保存されました";
+"Outbox"="送信ボックス";
+"Sent"="送信";
+"Draft"="ドラフト";
+"Sort By"="ソート方式";
+
+"All Events"="全てのイベント";
+"ITEM SORTING"="項目ソート";
+"Order"="順番";
+"Ascending"="昇り順";
+"Descending"="降り順";
+"Update Time"="更新時間";
+"Gender"="性別";
+"Family Name"="姓(家族名)";
+"Given Name"="名";
+"Age"="年齢";
+
+"Status"="状況";
+"INCLUDES CONDITION"="条件を含む";
+"INCLUDES GENDER"="性別を含む";
+"INCLUDES AGE GROUP"="年齢グループを含む";
+"CURRENT EVENT"="現在のイベント";
+"OTHER"="その他";
+"Alive and Well"="健在";
+"Missing"="不明";
+"Injured"="負傷";
+"Deceased"="死亡";
+"Unknown"="不明";
+"Found (no status)"="見つかりました (状態不明)";
+"Other"="その他";
+"Unknown"="不明";
+"Male"="男性";
+"Female"="女性";
+
+"Adult"="大人";
+"Child"="子供";
+"Contains Image"="イメージを含んでいます";
+"Records per Request"="リクエスト毎のレコード";
+"Exact term"="完全な一致文字";
+"Only display result matching the exact search term"="単語の完全一致したものだけの表示";
+"%i Results Found"="%i 件：見つかりました";
+"Loading..."="ローディング";
+"Pull To Refresh/Search"="下にドラッグ：レフレッシュ/検索";
+
+"Adjust Filters"="フィルターを調整";
+"Search Filter"="検索フィルター";
+"Detail #%li"="詳細 #%li";
+"Unable to Obtain Records"="レコードを取得出来ません";
+"Dismiss"="棄却";
+"Select Image Source"="イメージソースを選択";
+"Camera"="カメラ";
+"Gallery"="ギャラリー";
+"no face detected"="類似の顔写真なし";
+"Please move rectangle to highlight the person to report"="報告したい人の顔を四角い枠を動かして囲ってください";
+"Do not show again"="再表示は不要です";
+"Please identify person to report"="報告したい人を同定してください";
+"Locate The Face"="顔を示してください";
+"Please move and resize the red rectangle to cover the reportee's face"="報告される人の顔を赤い四角の枠を動かしサイズを調整してください。";
+
+"Crop"="不要部分削除";
+"Done"="終了";
+"Redo"="再度";
+"INFORMATION"="情報";
+"EVENT"="イベント";
+"LOCATION"="位置";
+"NOTE"="注";
+"No Image"="イメージ無し";
+"No Location Included"="位置情報は含まれていません";
+"Obtaining GPS Coordinates..."="GPSの経緯を取得中です";
+"No Note Included"="注は含まれていません";
+"No Comments Available"="コメントは有りません";
+"COMMENT (%i)"="コメント (%i)";
+"MapRow"="地図列";
+
+"Unable to verify the address"="住所を確認出来ません。";
+"Options"="オプション";
+"Cancel"="キャンセル";
+"Delete"="削除";
+"Save"="保存";
+"Save and Edit"="保存して、編集";
+"Comment"="コメント";
+"View in Safari"="サファリで見る";
+"Upload"="アップロード";
+"Report Abuse"="乱用報告";
+"Edit"="編集";
+"Select Map Type"="マップタイプを選択";
+"Standard"="標準";
+"Satellite"="衛星";
+"Hybrid"="ハイブリッド";
+"IMAGE"="イメージ";
+
+"The record has been saved in the outbox and will get uploaded to the server when the Internet connectivity has been restored"="インターネット接続が復活したときにサーバーにアップロードされるように、そのレコードは送信ボックスに保存されました。";
+"Fetching the latest record.."="最新のレコードを取得する";
+"GPS reported by the user"="ユーザによって報告されたGPS";
+"Confirm"="確認";
+"Submit"="提出";
+"Unable to Upload"="アップロードできません";
+"Successfully Reported"="報告に成功しました";
+"Saved"="保存されました";
+"The record is added onto your device. To view, tap Report from the Home screen."="そのレコードはあなたのデバイスに付け加えられました。見るためには、ホームスクリーンから報告をタップしてください";
+"Thank you for your report"="報告ありがとうございました。";
+"Please enter the reason"="その理由を入力してください";
+"Record removed"="レコードは削除されました";
+"If you reported the person, you may delete it from the %@ server."="もし、その人を報告したら、%@サーバからそれを削除ことになるかもしれません。";
+"No"="いいえ";
+"Remove from server"="サーバから削除";
+"Delete record"="削除されたレコード";
+
+
+"KEY_AGE_MAXIMUM"="最大年齢";
+"KEY_AGE_MINIMUM"="おおよその年齢";
+"KEY_GENDER"="性別";
+"KEY_FAMILY_NAME"="姓(家族名)";
+"KEY_GIVEN_NAME"="名";
+"KEY_CONDITION"="条件";
+
+
+
+"Use My Location"="自分の位置を使う";
+"my location"="自分の位置";
+"Add an Image"="イメージを加える";
+"Image #%i"="イメージ #%i";
+"Unable to Upload"="アップロードできません";
+"Camera Unavailable"="カメラが使えません";
+"Your Device does not support Cameras"="あなたの機器はカメラをサポートしていません";
+"Loading Address..."="住所をローディング中...";
+"Location Services Not Allowed"="位置情報サービスは許可されていません";
+"Please allow this application to access your Location Services. This can be located in Settings > Privacy > Location Services"="このアプリケーションにあなたの位置情報サービスを使えるように許可を与えて下さい。これは、設定 > プライバシー >  位置情報サービス　で設定できます";
+"Looking up the address..."="住所を探索中...";
+"Address Not Found"="住所は見つかりません";
+"Would you like to save the earlier report as a draft? Drafts are accessible by tapping the \"Draft\" tab at the bottom of the screen."="ドラフトとして以前の報告を保存しますか？ドラフトは、スクリーンの下にあるドラフトタブをタップすると見ることができます。";
+"Yes"="はい";
+"Select Action"="アクションを選んで下さい";
+"Remove"="削除";
+"View"="閲覧";
+"GPS reported by the user"="ユーザによって報告されたGPS";
+"Possible GPS from the address"="住所から割り出したGPS";
+"Match Location"="住所が一致しました";
+"Not Found"="見つかりません";
+"Unable to locate the coordinates with the given address"="その住所では経緯を調べることができません";
+"Empty Address"="アドレスが空欄です";
+"Please fill the address with full or partial infomation, in order to obtain the possible GPS coordinates."="可能なGPSの経緯を取得するために、完全or部分的住所を入力してください。";
+"Unpinned Map"="マップからピンを除く";
+"Please long press the map to drop a pin on the desire location, in order to obtain the address."="住所を取得する為には、マップのその場所を長押ししてピンを置いて下さい。";
+"Locating your location..."="あなたの場所を探しています";
+"Location Services Restricted"="位置情報サービスは制限されています。";
+"Your Location Services is Restricted. Restrictions settings can be located in Settings > General > Restriction > Location Services"="あなたの位置情報サービスは制限されています。制限の設定は、設定 > プライバシー >  位置情報サービス　にあります";
+"You are about to delete this record from your device"="あなたはデバイスからこのレコードを削除しようとしています";
+"Location Services Disabled"="位置情報サービスは使えません";
+"Please enable your phone's Location Services. This can be located in Settings > Privacy > Location Services"="携帯電話の位置情報サービスを使えるようにしてください。これは 設定 > プライバシー >  位置情報サービス　に位置しています。";
+"Uploading..."="アップロード中...";
+"No Connection"="接続無し";
+"Valid Age is between 0 to 120"="適切な年齢幅は、0才 から 120才までです";
+"Invalid Age"="不適切な年齢";
+"Invalid Age Range"="不適切な年齢幅";
+"Minimum age needs to be lesser than or equal to the Maximum age"="最大年齢に近いか、それ以下の年齢が必要です";
+"OK"="了解";
+
+"KEY_STREET_1"="番地１（町、通り）";
+"KEY_STREET_2"="番地２（町、通り）";
+"KEY_CITY"="市";
+"KEY_REGION"="都道府県";
+"KEY_COUNTRY"="国";
+"KEY_POSTAL"="郵便番号";
+"DEFAULT_INPUT_TEXT"="テキストを入力するにはタップしてください";
+"DEFAULT_NOTE_TEXT"="テキストを入力するにはタップしてください";
+
+
+
+"Empty Username Field"="ユーザー名が入力されていません";
+"Empty Password Field"="パスワードが入力されていません";
+"Try Again"="もう一度お願いします";
+
+"Logging In..."="ログインしています...";
+"Logging Out..."="ログアウトしています...";
+"You are now logged in as %@"="あなたは、%@としてログインしています。";
+"Unable to Reset"="リセットできません";
+"Please check your e-mail for further instructions"="将来指示を受けるためにメールをチェックしてください。";
+"Unable to Update Event List"="イベントリストを更新できません";
+"Unable To Register"="登録できません";
+"Thank you for registering. An e-mail with an activation link will be sent to you shortly. Once you activate your account, you may log in through the app."="登録ありがとうございました。承認するためのリンクのメールがもうすぐ届きます。一旦アカウントをアクティベートしたら、このアプリでログインできます。";
+"Unable To Log In"="ログイン出来ません";
+"Forgot Password"="パスワード失念";
+" Logged in as %@"=" %@としてログイン";
+" Login"=" ログイン";
+
+"Agree"="同意します";
+"STRING_PASSWORD_GUIDE"="以下のルールに従ってパスワードを設定してください:\n1. 少なくとも8文字以上 であること。\n2. 多くても16文字以下であること。\n3. 少なくとも１文字以上の大文字を含むこと。\n4. 少なくとも１文字以上の小文字を含むこと。\n5. 少なくとも１文字以上の数字(0-9)を含むこと。\n6. パスワードにユーザ名を含まないこと。";
+"USER INFORMATION"="ユーザの情報";
+"First Name"="名（ファーストネーム）";
+"Last Name"="姓（ラストネーム）";
+"E-mail"="メールアドレス";
+"Register"="登録";
+"Re-Enter"="再入力";
+"Username"="ユーザ名";
+"Password"="パスワード";
+"CREDENTIALS"="証明書";
+
+"Invalid Email Address"="使えないメールアドレスです";
+"Please enter a valid email address"="正しいメールアドレスを入力してください";
+"Empty Field(s)"="フィールドが空白です";
+"One or more fields appears to be empty. All fields are required."="一つ以上のフィールドが空白のようです全てのフィールどを埋めてください";
+"Invalid Password"="パスワードが違います";
+"These passwords don't match. Try again?"="パスワードが一致しません。再入力?";
+"Registering..."="登録しています...";
+"RESET PASSWORD"="パスワード　リセット";
+"Login"="ログイン";
+"Age: ?"="年齢: ?";
+"Age: %@"="年齢: %@";
+"Age: %@-%@"="年齢: %@-%@";
+"Gender: %@"="性別: %@";
+"Gender: ?"="性別: ?";
+"COMMENT (%i)"="コメント (%i)";
+
+
+"%@ Status"="%@ 状態";
+": No Event Selected"=":イベントは選択されていません";
+": Refreshing..."=": リフレッシュ中...";
+"No Events Found"="イベントは見つかりません";
+"Either your event list have not been updated or we do not have any active event at this moment. Tap refresh button to get our latest list of events"="あなたのイベントリストが更新されていないか、或いは、現時点でアクティブなイベントはありません。イベントの最新リストを表示する為にリフレッシュボタンをタップしてください";
+"Refresh"="情報を更新";
+"Logout"="ログアウト";
+"To confirm, please tap on the Log Out button"="確認する為には、ログアウトボタンをタップしてください";
+"Log Out"="ログアウト";
+"  Logged in as %@"="  %@としてログイン";
+"  Event list has never been updated"="  イベントリストは更新されていません";
+"Burden & Privacy Statement"="負荷とプライバシー宣言";
+"%@ Support"="%@ 支援";
+"E-mail account required"="メールのアカウントが必要です";
+"Please set up your email account on the device before proceeding."="次に進める前に、メールのアカウントを設定して下さい。";
+"Email Sent"="メール送信";
+"Thank you for contacting us."="情報提供ありがとうございます";
+"Successfully Submitted"="提出成功";
+"Thank you for your report"="報告ありがとうございました。";
+"Unable To Submit"="提出出来ません";
+"Comment Image"="イメージのコメント";
+
+"Add Comment"="コメントを加える";
+"COMMENT"="コメント";
+"SUGGESTED CONDITION"="推奨条件";
+"SUGGESTED LOCATION"="推奨位置";
+"Match Address"="住所が一致しました";
+"Report from %@: %@ %@, %@"="%@からの報告: %@ %@, %@";
+"Comment #%i Image"="#%i イメージのコメント";
+"* This page is accessible through About section"="*このページは概要セクションからアクセスできます";
+"You are about to delete this record from PL server"="あなたはこのレコードをPLサーバーから削除しようとしています";
+"Unspecified"="特定できません";
+"Searching for Faces"="顔を検索します";
+"You are now logged out"="あなたは今、ログアウトしています。";
+"Success"="成功";
+
+"Privacy Statement"="プライバシー宣言";
+"insufficient permission to revise this record"="このレコードを再編集するには許可が不十分です";
+"If you reported the person, you may delete it from the People Locator server."="もし、その人を報告したら、People Locatorサーバからそれを削除するかもしれません。";
+"The record has been deleted"="そのレコードは削除されました";
+"Successfully Deleted"="削除成功";
+"Save draft"="ドラフト保存";
+
+
+"Internet Appears Offline"="インターネットがオフラインで表示される";
+"Invalid UUID"=" UUID 無効";
+"Invalid Event"="イベント無効";
+"Token Cannot access Event"="トークンがイベントにアクセスできない";
+"Invalid Type"="タイプ無効";
+"Invalid Token"="トークン無効";
+"Invalid Report Format"="レポート形式無効";
+"Invalid Status"="ステータス無効";
+"Invalid Sex"="セックス無効";
+"Invalid GPS Values"=" GPS値無効";
+"Invalid PA Values"=" PA 値無効";
+"Event closed to Reporting"="イベントはレポーティングで終了しました";
+"Cannot Revise Expired Record"="期限切れのレコードを改訂することはできません";
+"No user with the email address was found"="電子メールアドレスを持つユーザーは見つかりませんでした";
+"User account is inactive; user must confirm email address"="ユーザーアカウントは非アクティブです。 ユーザーは電子メールアドレスを確認する必要があります";
+"Invalid email Address"="無効のメールアドレス";
+"User already exists with Provided email Address"="ユーザーは既に提供された電子メールアドレスで存在します";
+"Exceeded authentication failure limit"="認証失敗の上限を超えました";
+"Bad Username and Password"="悪いユーザー名とパスワード";
+"Invalid confirmation code"="無効な確認コード";
+"Unknown name"="不明な名前";
+": Online"=": オンライン";
+": Offline"=": オフライン";
+"Unable to Activate"="アクティブできません";
+"This app does not have access to your camera.You can enable access in Privacy settings.Settings>Privacy>Camera"="このアプリはあなたのカメラにアクセスできません。あなたはプライバシー設定でアクセスを有効にすることができます。セッティング>プライバシー>カメラ";
+"Your Account is Activated"="あなたのアカウントは有効です";
+
+
+
+
+
+

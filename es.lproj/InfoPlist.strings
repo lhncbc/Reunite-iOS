@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  Reunite
+
+*/
+"NSCameraUsageDescription"="ReUnite requiere acceso a la camara";
+"NSLocationAlwaysUsageDescription"=" Estamos usando su ubicacion";
+"NSLocationWhenInUseUsageDescription"=" Estamos usando su ubicacion";
+"NSPhotoLibraryUsageDescription"="ReUnite require acceso a las fotos";
